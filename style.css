@@ -114,3 +114,22 @@ main {
   border-radius: 8px;
   border: none;
 }
+
+#evaluation-form-2-of-3 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+}
+
+#radios-conteiner {
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+}
+
+#check-box-conteiner {
+  display: flex;
+  flex-flow: row wrap;
+  width: 230px;
+  justify-content: space-around;
+}
