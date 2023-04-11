@@ -1,10 +1,8 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<summary><strong>🧑‍💻 O que foi desenvolvido</strong></summary><br />
+
+Neste projeto, foi desenvolvida uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela.<br /> O tema desse projeto é baseado na obra 'Harry Potter'. .<br /> Mas não se preocupe se não tiver conhecimento sobre o universo da obra original, pois essa é uma versão própria da Escola de Bruxaria!
+
+ <summary><strong>👨‍💻 Tecnologias utilizadas</strong></summary><br />
+ - HTML-5 Forms.<br />
+ - CSS responsivo, Flex-box, Bootstrap.<br />
+ - JavaScript/DOM<br />
